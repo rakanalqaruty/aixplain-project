@@ -32,14 +32,7 @@ AIXPLAIN_API_KEY=your_api_key_here
 
 # Optional (choose ONE of these approaches to attach a tool)
 AIXPLAIN_TOOL_ID=               # e.g., marketplace model/tool ID
-AIXPLAIN_TOOL_FUNCTION=         # e.g., TEXT_GENERATION, OCR
-AIXPLAIN_TOOL_SUPPLIER=         # e.g., OPENAI, GOOGLE, MICROSOFT
 
-# Optional model override
-AIXPLAIN_LLM_ID=                # e.g., a specific LLM ID
-
-# Optional integrations
-COURTLISTENER_TOKEN=            # optional token for CourtListener (rate limits)
 SLACK_WEBHOOK_URL=              # Slack incoming webhook for notifications
 
 # Optional logging
