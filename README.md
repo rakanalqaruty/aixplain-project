@@ -2,6 +2,8 @@
 
 A multi-agent RAG-style scaffold that lets users ingest policy/regulatory documents and chat with an LLM. It supports PDF/website/dataset ingestion (programmatic), structured RAG answers with citations, external government API context (Federal Register, CourtListener), Slack notifications, logging, and basic i18n.
 
+**Demo Video**: See `assets/demo-video.mp4` for a walkthrough of the application features.
+
 ## What it does
 - Interactive chat with an aiXplain-powered agent (CLI)
 - Create a vector index and ingest knowledge (PDF via CLI; website/dataset programmatically)
